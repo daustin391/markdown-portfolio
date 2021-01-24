@@ -1,0 +1,1 @@
+![the IBM 704 computer](http://www.columbia.edu/cu/computinghistory/704-llnl.jpg)
