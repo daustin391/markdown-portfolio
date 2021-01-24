@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![the IBM 704 computer](http://www.columbia.edu/cu/computinghistory/704-llnl.jpg)
